@@ -30,3 +30,11 @@ sudo apt-get install pkg-config build-essential libmysqlclient-dev
 ```
 pip3 install mysqlclient mysql-connector-python
 ```
+
+Al ejecutar el archivo buscador.py nos mostrará un menú como la siguiente imagen:
+
+  <img src="https://github.com/m4ty4s28/Buscador-de-Hoteles-y-Apartamentos/blob/main/imagen_menu_buscador.png">
+  
+Aquí debemos seleccionar la primera opción (1) para que se creen los datos en la Base de Datos, 
+
+Y luego la segunda opción (2) para acceder al Buscador de Hospedajes
